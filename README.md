@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://davidespier.com/github/fav-animal-alexa/41zA4aheGuL.png" weight="200" width="200">
+  <img src="https://i.postimg.cc/Y0h56H9D/41z-A4ahe-Gu-L.png">
 </p>
 
 
